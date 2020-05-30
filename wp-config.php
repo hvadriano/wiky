@@ -25,6 +25,7 @@ define( 'DB_NAME', 'wiky' );
 /** MySQL database username */
 define( 'DB_USER', 'root' );
 
+// alterar
 /** MySQL database password */
 define( 'DB_PASSWORD', 'admin123' );
 
